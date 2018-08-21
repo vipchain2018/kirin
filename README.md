@@ -86,3 +86,4 @@ VIP是麒麟黑卡生态中使用的激励积分，该积分基于eos发行，�
 # 联系我们
 
     官方咨询和商务合作邮箱：vipchain@126.com
+    官方网址: http://www.kirin.plus/
